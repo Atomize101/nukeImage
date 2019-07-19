@@ -1,10 +1,13 @@
 
 h1 {
     font-family: 'Russo One', sans-serif;
-    font-size: 4.0em;
-    font-weight: bold;
-    width: 50%;
-    margin: auto 0 auto;
+    font-size: 23px;;
+    width: 30%;
+    font-weight: 800;
+    margin-left: 1.66%;
+    text-transform: uppercase;
+    border-bottom: 2px solid lightcoral;
+    padding-bottom: 20px;
 }
 
 .image {
