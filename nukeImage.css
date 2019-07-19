@@ -1,5 +1,45 @@
 
+h1 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 4.0em;
+    font-weight: bold;
+    width: 50%;
+    margin: auto 0 auto;
+}
 
-img {
-    width: 100px;
+.image {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background-size: cover;
+    background-position: center center;
+}
+
+.image01 {
+    background-image: url(nuke01.jpg)
+}
+.image02 {
+    background-image: url(nuke02.jpg)
+}
+.image03 {
+    background-image: url(nuke03.jpg)
+}
+.image04 {
+    background-image: url(nuke04.jpg)
+}
+.image05 {
+    background-image: url(nuke05.jpg)
+}
+.image06 {
+    background-image: url(nuke06.jpg)
+}
+.image07 {
+    background-image: url(nuke07.jpg)
+}
+.image08 {
+    background-image: url(nuke08.jpg)
+}
+.image09 {
+    background-image: url(nuke09.jpg)
 }
